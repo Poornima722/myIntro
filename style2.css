@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(182, 154, 177);
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:aliceblue;
+    background-color: rgb(146, 28, 146);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px ;
+    border: 2px solid black;
+}
+#p1{
+    height: 40px;
+    width: 150px;
+}
+#p2{
+    height: 40px;
+    width: 200px;
+}
+#p3{
+    height: 40px;
+    width: 180px;
+}
+#p4{
+    height: 40px;
+    width: 200px;
+}
+#p5{
+    height: 40px;
+    width: 300px;
+}
+#p6{
+    height: 40px;
+    width: 350px;
+}
